@@ -1,0 +1,32 @@
+body {
+    background: #FAFAFA;
+}
+
+* {
+    outline: none;
+}
+
+td {
+    padding: 14px 12px;
+}
+
+.pag {
+    display: flex;
+    gap: 8px;
+}
+
+.pag button {
+    width: 28px;
+    height: 28px;
+    display: grid;
+    place-items: center;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4D4D4D;
+    border-radius: 4px;
+
+}
+
+#root {
+    display: flex;
+}
